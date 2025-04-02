@@ -9,13 +9,22 @@ namespace FigurasPolimorfismo
 {
     public class Linea : Figura
     {
+        private int x2;
+        private int y2;
+        private float grosor;
         public Linea(int coordenadaX, int coordenadaY, Color color) : base(coordenadaX, coordenadaY, color)
         {
+            this.x2 = coordenadaX + 50;
+            this.y2 = coordenadaY;
+            this.grosor = 2.0f;
         }
 
-        public override Graphics Dibujar()
+        public override void Dibujar(Graphics gr)
         {
-            throw new NotImplementedException();
+            using (Pen pen = new Pen(Color, grosor))
+            {
+                gr.DrawLine(pen, CoordenadaX, CoordenadaY, x2, y2);
+            }
         }
     }
 }

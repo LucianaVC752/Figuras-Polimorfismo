@@ -9,13 +9,20 @@ namespace FigurasPolimorfismo
 {
     public class Rectangulo : Figura
     {
+        private int ancho;
+        private int alto;
         public Rectangulo(int coordenadaX, int coordenadaY, Color color) : base(coordenadaX, coordenadaY, color)
         {
+            this.ancho = 50;
+            this.alto = 25;
         }
 
-        public override Graphics Dibujar()
+        public override void Dibujar(Graphics gr)
         {
-            throw new NotImplementedException();
+            using (SolidBrush brush = new SolidBrush(Color))
+            {
+                gr.FillRectangle(brush, CoordenadaX, CoordenadaY, ancho, alto);
+            }
         }
     }
 }

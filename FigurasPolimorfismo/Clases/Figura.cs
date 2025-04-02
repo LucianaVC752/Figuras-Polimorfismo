@@ -20,6 +20,6 @@ namespace FigurasPolimorfismo
             Color = color;
         }
 
-        public abstract Graphics Dibujar();
+        public abstract void Dibujar(Graphics gr);
     }
 }
