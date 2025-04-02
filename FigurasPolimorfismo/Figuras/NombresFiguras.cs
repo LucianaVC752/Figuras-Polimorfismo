@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FigurasPolimorfismo.Figuras
 {
-    enum NombresFiguras
+    public enum NombresFiguras
     {
         rectangulo,
         circulo,

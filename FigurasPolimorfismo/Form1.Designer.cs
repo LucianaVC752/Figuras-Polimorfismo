@@ -38,18 +38,20 @@
             this.btnDibujar = new System.Windows.Forms.Button();
             this.cmbFigura = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.lblContador = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtCoordenadaX
             // 
-            this.txtCoordenadaX.Location = new System.Drawing.Point(30, 46);
+            this.txtCoordenadaX.Location = new System.Drawing.Point(12, 46);
             this.txtCoordenadaX.Name = "txtCoordenadaX";
             this.txtCoordenadaX.Size = new System.Drawing.Size(100, 20);
             this.txtCoordenadaX.TabIndex = 0;
             // 
             // txtCoordenadaY
             // 
-            this.txtCoordenadaY.Location = new System.Drawing.Point(172, 43);
+            this.txtCoordenadaY.Location = new System.Drawing.Point(138, 46);
             this.txtCoordenadaY.Name = "txtCoordenadaY";
             this.txtCoordenadaY.Size = new System.Drawing.Size(100, 20);
             this.txtCoordenadaY.TabIndex = 1;
@@ -57,7 +59,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(27, 30);
+            this.label1.Location = new System.Drawing.Point(9, 30);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(74, 13);
             this.label1.TabIndex = 2;
@@ -66,7 +68,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(169, 27);
+            this.label2.Location = new System.Drawing.Point(135, 30);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(74, 13);
             this.label2.TabIndex = 3;
@@ -78,11 +80,12 @@
             this.plDibujar.Name = "plDibujar";
             this.plDibujar.Size = new System.Drawing.Size(807, 364);
             this.plDibujar.TabIndex = 4;
+            this.plDibujar.Paint += new System.Windows.Forms.PaintEventHandler(this.plDibujar_Paint);
             // 
             // btnColorFigura
             // 
             this.btnColorFigura.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnColorFigura.Location = new System.Drawing.Point(582, 43);
+            this.btnColorFigura.Location = new System.Drawing.Point(582, 40);
             this.btnColorFigura.Name = "btnColorFigura";
             this.btnColorFigura.Size = new System.Drawing.Size(25, 23);
             this.btnColorFigura.TabIndex = 5;
@@ -96,11 +99,12 @@
             this.btnDibujar.TabIndex = 6;
             this.btnDibujar.Text = "Dibujar";
             this.btnDibujar.UseVisualStyleBackColor = true;
+            this.btnDibujar.Click += new System.EventHandler(this.btnDibujar_Click);
             // 
             // cmbFigura
             // 
             this.cmbFigura.FormattingEnabled = true;
-            this.cmbFigura.Location = new System.Drawing.Point(336, 42);
+            this.cmbFigura.Location = new System.Drawing.Point(262, 45);
             this.cmbFigura.Name = "cmbFigura";
             this.cmbFigura.Size = new System.Drawing.Size(121, 21);
             this.cmbFigura.TabIndex = 7;
@@ -108,17 +112,37 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(333, 26);
+            this.label3.Location = new System.Drawing.Point(259, 29);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(36, 13);
             this.label3.TabIndex = 8;
             this.label3.Text = "Figura";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(429, 30);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(50, 13);
+            this.label4.TabIndex = 9;
+            this.label4.Text = "Contador";
+            // 
+            // lblContador
+            // 
+            this.lblContador.AutoSize = true;
+            this.lblContador.Location = new System.Drawing.Point(435, 49);
+            this.lblContador.Name = "lblContador";
+            this.lblContador.Size = new System.Drawing.Size(35, 13);
+            this.lblContador.TabIndex = 10;
+            this.lblContador.Text = "label5";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblContador);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.cmbFigura);
             this.Controls.Add(this.btnDibujar);
@@ -130,6 +154,7 @@
             this.Controls.Add(this.txtCoordenadaX);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -147,6 +172,8 @@
         private System.Windows.Forms.Button btnDibujar;
         private System.Windows.Forms.ComboBox cmbFigura;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label lblContador;
     }
 }
 
