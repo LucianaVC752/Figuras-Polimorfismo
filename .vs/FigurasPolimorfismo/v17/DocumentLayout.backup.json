@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|c:\\users\\hp\\onedrive - pascualbravo.edu.co\\herramientas ii\\figuraspolimorfismo\\figuraspolimorfismo\\factory\\figurafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|solutionrelative:figuraspolimorfismo\\factory\\figurafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|c:\\users\\hp\\onedrive - pascualbravo.edu.co\\herramientas ii\\figuraspolimorfismo\\figuraspolimorfismo\\figuras\\nombresfiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|solutionrelative:figuraspolimorfismo\\figuras\\nombresfiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\figuraspolimorfismo\\clases\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|solutionrelative:figuraspolimorfismo\\clases\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\figuraspolimorfismo\\clases\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|solutionrelative:figuraspolimorfismo\\clases\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\figuraspolimorfismo\\clases\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|solutionrelative:figuraspolimorfismo\\clases\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|c:\\users\\hp\\onedrive - pascualbravo.edu.co\\herramientas ii\\figuraspolimorfismo\\figuraspolimorfismo\\clases\\linea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\figuraspolimorfismo\\clases\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|solutionrelative:figuraspolimorfismo\\clases\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\figuraspolimorfismo\\clases\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|solutionrelative:figuraspolimorfismo\\clases\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\figuraspolimorfismo\\clases\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|solutionrelative:figuraspolimorfismo\\clases\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07D3852D-FFFE-42B9-9ECF-1CEAE9BBF768}|FigurasPolimorfismo\\FigurasPolimorfismo.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\figuraspolimorfismo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,34 +53,64 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "NombresFiguras.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Figuras\\NombresFiguras.cs",
+              "RelativeDocumentMoniker": "FigurasPolimorfismo\\Figuras\\NombresFiguras.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Figuras\\NombresFiguras.cs",
+              "RelativeToolTip": "FigurasPolimorfismo\\Figuras\\NombresFiguras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:32:28.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FiguraFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Factory\\FiguraFactory.cs",
+              "RelativeDocumentMoniker": "FigurasPolimorfismo\\Factory\\FiguraFactory.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Factory\\FiguraFactory.cs",
+              "RelativeToolTip": "FigurasPolimorfismo\\Factory\\FiguraFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:24:49.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Linea.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Clases\\Linea.cs",
               "RelativeDocumentMoniker": "FigurasPolimorfismo\\Clases\\Linea.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Clases\\Linea.cs",
               "RelativeToolTip": "FigurasPolimorfismo\\Clases\\Linea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T21:30:28.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Triangulo.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Clases\\Triangulo.cs",
               "RelativeDocumentMoniker": "FigurasPolimorfismo\\Clases\\Triangulo.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Clases\\Triangulo.cs",
               "RelativeToolTip": "FigurasPolimorfismo\\Clases\\Triangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T21:30:04.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Rectangulo.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Clases\\Rectangulo.cs",
               "RelativeDocumentMoniker": "FigurasPolimorfismo\\Clases\\Rectangulo.cs",
@@ -80,38 +118,37 @@
               "RelativeToolTip": "FigurasPolimorfismo\\Clases\\Rectangulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T21:29:52.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T21:29:52.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Circulo.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Clases\\Circulo.cs",
               "RelativeDocumentMoniker": "FigurasPolimorfismo\\Clases\\Circulo.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Clases\\Circulo.cs",
               "RelativeToolTip": "FigurasPolimorfismo\\Clases\\Circulo.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T21:29:43.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Figura.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Clases\\Figura.cs",
               "RelativeDocumentMoniker": "FigurasPolimorfismo\\Clases\\Figura.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Clases\\Figura.cs",
               "RelativeToolTip": "FigurasPolimorfismo\\Clases\\Figura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T21:29:29.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\FigurasPolimorfismo\\FigurasPolimorfismo\\Form1.cs",
               "RelativeDocumentMoniker": "FigurasPolimorfismo\\Form1.cs",

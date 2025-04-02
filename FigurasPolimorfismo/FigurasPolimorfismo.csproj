@@ -48,6 +48,8 @@
   <ItemGroup>
     <Compile Include="Clases\Circulo.cs" />
     <Compile Include="Clases\Figura.cs" />
+    <Compile Include="Factory\FiguraFactory.cs" />
+    <Compile Include="Figuras\NombresFiguras.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
